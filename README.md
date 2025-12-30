@@ -47,6 +47,6 @@ This project involves the **analysis of Blinkit sales data** using **Microsoft E
 
 ## 📸 Dashboard Screenshots
 
-(https://github.com/PanchalArti/Blinkit_Sales_Analysis/blob/main/dasboard1.png)  
+![Overall Sales Overview](https://github.com/PanchalArti/Blinkit_Sales_Analysis/blob/main/dasboard1.png)  
 
-(https://github.com/PanchalArti/Blinkit_Sales_Analysis/blob/main/dashbord2.png) 
+![Overall Sales Overview](https://github.com/PanchalArti/Blinkit_Sales_Analysis/blob/main/dashbord2.png) 
