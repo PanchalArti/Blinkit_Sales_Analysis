@@ -29,14 +29,14 @@ This project involves the **analysis of Blinkit sales data** using **Microsoft E
    - Created charts to visualize monthly and category-wise sales 📈  
    - Built interactive dashboards for quick insights ⚡  
 
----
+
 
 ## 💡 Key Insights
 - 🌟 Top 5 products contributing majorly to revenue  
 - 📅 Sales trends over months and regions  
   
 
----
+
 
 ## 🛠️ Tools Used
 - **Microsoft Excel:**: For building interactive dashboards  
